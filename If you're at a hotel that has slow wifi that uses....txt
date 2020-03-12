@@ -1,0 +1,9 @@
+If you're at a hotel that has slow wifi that uses a just a password to gain access, try gaining access to the administrator's console and put yourself in the fast lane using the following steps:
+Type 192.168.1.1 into your web browser
+A pop up window should come up saying something along the lines of "The server http://192.168.1.1 requires a username and password. The server says: router make and model"
+Most people do not change the default username/password so try admin for both username and password.
+If that does not work try googling "make/model default password" to find the default
+Now that you've gained access try finding the "client list", this will likely be under "DHCP", and find your computer's ip address. Write these down.
+The last step is to go to IP QoS, this will likely be in the sidebar. You will see a screen similar to this . Fill in your ip address and give yourself at least 10000 kbps (10 mbps).
+Enjoy your lightning fast internet.
+Note: You may have to repeat this process whenever you restart your computer or you become disconnected from the network.

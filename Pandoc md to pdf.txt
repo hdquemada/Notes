@@ -1,0 +1,73 @@
+pandoc -t latex -o file.pdf file.md
+
+pandoc -t latex --variable mainfont="Times New Roman" --variable sansfont="Helvetica" --variable monofont="Times New Roman" --variable fontsize=11pt --variable margin-left=1in --variable margin-right=1in --variable margin-top=1in --variable margin-bottom=1in  --pdf-engine=xelatex -o outputfile.pdf inputfile.md
+
+With a template:
+
+pandoc inputfile.md --template=mytemplate.tex --variable mainfont=“Times New Roman” --pdf-engine=xelatex -o outputfile.pdf
+
+pandoc -N inputfile.md --template=mytemplate.tex --variable mainfont=“Times New Roman” --variable sansfont="Helvetica" --variable monofont="Menlo" --variable fontsize=11pt --pdf-engine=xelatex -o outputfile.pdf
+
+-N option is to produce numbered sections
+
+
+
+With YAML format files and specific header:
+
+pandoc default.yml src.md --pdf-engine=xelatex -o out.pdf
+
+Main file (src.md) with standard header below
+
+---
+title: Boilerplating Pandoc for Academic Writing
+
+author: 
+
+- Hector Quemada
+
+date: 17 November 2016
+
+abstract (if required): 
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna	aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+—
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+YAML file (default.yml) for format (spaces and line breaks are important)
+—
+geometry:  
+
+- letterpaper
+- margin=1.0in
+
+indent: false
+
+fontsize: 11pt
+
+header-includes:
+ \usepackage{fontspec}
+ \usepackage{microtype}
+
+mainfont: Times New Roman
+
+...
+
+See example files in ~/Science Team FNIH Dropbox/Hector Quemada/Typesetting/boilerplate

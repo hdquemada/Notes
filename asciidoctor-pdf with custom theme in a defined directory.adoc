@@ -1,0 +1,7 @@
+asciidoctor-pdf -a pdf-themesdir=/Users/hquemada/Science\ Team\ FNIH\ Dropbox/Hector\ Quemada/Asciidoc/asciidoctor-pdf/data/themes/ -a pdf-theme=hdq-theme.yml inputfile.adoc
+
+# If using asciidoctor-bibtex
+
+asciidoctor-pdf -r asciidoctor-bibtex -a pdf-themesdir=/Users/hquemada/Science\ Team\ FNIH\ Dropbox/Hector\ Quemada/Asciidoc/asciidoctor-pdf/data/themes/ -a pdf-theme=hdq-theme.yml sample.adoc
+
+Need the adoc file as well as a bibtex file for asciidoctor-bibtex

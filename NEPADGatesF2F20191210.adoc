@@ -1,0 +1,153 @@
+= NEPAD Gates Face to Face Meeting
+:sectnums:
+
+Place: Gates Foundation Offices, 1300 I St. NW, Washington DC +
+Time: 9:30 AM - 5:00 PM +
+Present: Susan Weiner, Stephanie James, Brinda Dass, Karen Tountas, Willy Tonui, Hector Quemada, David O'Brochta, Renata Hofstetter, Hudu Mogtari, Aggrey Ambali, Raj Long, Helen Jamet, Jeremy Ouedraogo 
+
+== Review of yesterday's discussions
+=== General discussion
+Stephanie reviewed the outcomes of yesterday's meeting.
+
+Aggrey: AUDA can move into any country at any time with gene drive efforts.
+Confirmed that they agreed to workshops; timing needs to be worked out.
+The term "socializing" the concept of gene drive was first mentioned.
+
+Raj: who will be the audience for the workshops and also for the modeling topic?
+Stephanie explained by describing the workshop held December 4-5.
+Brinda reviewed the workshop in detail.
+
+=== Workshops
+==== Modeling
+Raj: the concept is great, but how are you going to socialize it keeping in mind the target African regulators?
+For example, FDA is comfortable with using models, but EMEA is not.
+
+Aggrey: could establish an expert group that could be trained on modeling.
+
+Jeremy: agreed it is a good idea but need to identify targets.
+He saw modeling as more of a tool for developer.
+He doesn't see it being used by regulators for decision-making.
+
+==== Timing of regulatory workshops with AUDA
+AUDA will double-check the dates of the workplan they shared with us, and then identify when the regulatory workshops would fit in.
+
+== Other FNIH plans
+=== Gene Drive Research Forum
+Are collaborating with GBIRd.
+
+Helen: need to find additional donors for gene drive activities.
+
+=== Strategy and Planning Workshops (FNIH)
+Reviewed the 2020 planned workshops
+
+* Engagement requirements for field release of gene drive-modified mosquitoes: Q1, Africa.
+
+This will feed into the WHO document update.
+AUDA is already working on guidelines (the WAIVM ethics guidelines).
+They should be involved with this activity.
+
+* Efficacy requirements for first field release of gene drive-modified mosquitoes: Q1?, Africa
+
+Arising from the Newport Beach meeting: getting input from African perspective.
+
+* Field trial design for entomological efficacy: Q2, US
+
+Vector control people in BMGF are also looking into this area.
+They are holding a meeting in 2020 on this topic.
+
+* Monitoring and surveillance for entomological efficacy: Q2, DC
+
+* Regulatory issues for gene drive-modified mosquitoes, part 2: Q3, DC
+
+Raj: include Target Malaria experience in preparation of case studies.
+
+* Containment guidelines for gene drive-modified mosquitoes: Q4, US
+
+Following up from the survey conducted with American Biological Safety Association.
+American Entomological Society, PAMCA are interested in participating.
+
+Helen: suggest approaching American Mosquito Control Association.
+
+=== GeneConvene Virtual Institute
+BMGF is funding phase 1; the development team at FNIH is tasked with getting additional funding for phase 2.
+
+NOTE: Generally positive reaction to the idea.
+
+AUDA has experience on this; have developed eLearning modules with ICGEB--the first on risk assessment, the second on socioeconomic considerations.
+AUDA can link to GeneConvene.
+
+=== WHO Guidance Framework Update
+Draft internally available by end of Q1; draft to WHO by end of Q2.
+{Raj made a recommendation on how to move it through WHO that I didn't understand.}
+
+=== Minicourses
+Targeting researchers and academic professionals in Africa.
+
+Developed a minicourse on gene editing, delivered with an African collaborator.
+
+Raj: modified version of this course useful for health regulators?
+Jeremy: the missing component is to how to convert the science and use it for decision-making.
+If this can be incorporated, it will be good.
+Raj: Can do in two steps--first Dave's minicourse, then AUDA on regulatory application.
+Jeremy: he got good feedback on Dave's minicourse.
+Helen: other target groups--media, malaria control program managers; modify the content to fit.
+Jeremy: Burkina and Kenya have already approved field trials of gene edited crops.
+Aggrey: convene scientists and health regulators separately, positioned as information offered in response to their expressed needs (under AUDA umbrella).
+Jeremy: can target the health regulators in the WAIVM TWGs.
+
+== AUDA plans for 2020
+Hudu reviewed their 6 goals (outcomes) for 2020, as presented yesterday (see NEPADF2F20191209.adoc notes).
+
+Reworded Outcome 3: Enhance capacity of African healthcare, environmental and biosafety regulators and ethicists.
+"Rolling" gap assessments, used to develop country-specific and regional training session on specific topics (see 
+NEPADF2F20191209.adoc notes).
+Could develop training on testing GM mosquitoes, IBCs, compliance monitoring and inspection, containment facilities, bioethics, and public engagement (the five areas where guidelines are being developed).
+
+NOTE: This would be the most obvious area where FNIH/WMU can contribute.
+
+Discussion on the comment period for the WAIVM guidelines: develop scope of relevant comments, be transparent about how comments are handled.
+Advice provided by Brinda.
+Raj: need a plan for how these guidelines get disseminated to the other regions.
+Aggrey: In continental platforms, the West Africa Group can present these guidelines (AMRH, ABNE for example).
+
+Regarding COP/MOP participation: should be more aware of what's going on with other groups with similar goals at that meeting.
+
+How do we get countries involved who have expressed interest?
+Raj: a mechanism for transmitting requests by countries to BMGF.
+
+.2020 expected specific outcomes
+* Africa IVM platform established and operational
+* Africa Vector Management Advisory Panel established and operational
+* Developed guidelines approved and adopted
+* Additional guidelines approved and adopted
+* 2 international visit for high level officials conducted
+* Consultation of Eastern, Southern, Central, Northern African regulators conducted
+* 2 convenings of APET
+* AU Member States supported COP/MOP 2020, IUCN, AWA, etc.
+
+NOTE: They will provide us with their detailed workplan in the near future.
+The training workshops could be piggybacked on the meetings of the Technical Working Groups.
+
+== Additional activities of mutual interest
+=== Regulatory roadmap
+Build on i2i information.
+Gene drive would be a different situation.
+Some agencies that might be dealing with the topic now might not be the agencies that will deal with gene drive in the future.
+
+NOTE: This might be something that is more appropriate for later, once countries have figured out how they will deal with gene drives.
+
+=== Liability issues
+Akile Sunday is doing a survey of liability requirements in different countries on the continent.
+AUDA can make information on liability to developers on request.
+
+NOTE: FNIH can work with Sunday Akile when the need arises, at the request of a developer.
+
+Hudu: development of guidelines might be able to resolve transboundary liability issues.
+AUDA is _not_ working on this right now.
+
+NOTE: FNIH would like to be kept informed of what AUDA is doing in this area.
+
+=== Interaction with developers
+FNIH is going to Target Malaria and UCI annual meetings.
+
+Setting up monthly calls with UCI.

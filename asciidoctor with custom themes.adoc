@@ -1,0 +1,5 @@
+asciidoctor -a stylesdir=“/Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/Asciidoc/asciidoctor-skins-gh-pages/css/“ -a stylesheet=mystyles.css mysample.adoc
+
+or embed just under the title of a document
+:stylesdir: /Users/hquemada/Science Team FNIH Dropbox/Hector Quemada/Asciidoc/asciidoctor-skins-gh-pages/css/
+:stylesheet: boot-readable.css

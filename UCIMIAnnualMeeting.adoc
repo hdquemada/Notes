@@ -1,0 +1,260 @@
+= UCIMI Annual Meeting 2020-01-29
+
+[.text-center]
+January 29, 2020 +
+UC Irvine +
+
+:sectnums:
+== Introduction, Tony James
+=== Benefits of population modification
+* Sustainability
+* No empty ecological niche
+* Stable in low population densities
+* Allows serial approach in resource-constrained control
+
+=== Goals
+* Adapt coupled Cas9-effector genes
+* Identify a field site in Africa for testing
+
+=== Progress
+* developing a field ready product
+* collecting baseline data
+* engaging with African collaborators
+
+== Design of a gene drive system, Rebeca Carballar
+=== Prototype: Gantz et al. (2015)
+* Fitness cost
+* Resistant alleles
+
+=== New drive system to solve the problems above
+* Fitness cost problem: Cardinal gene (another gene in the ommochrome pathway)
+* Resistant allele problem: use nanos promoter
+* Also evaluated off-target effects: up to 6 generations, have not found any off-target effects
+* Variation in target site: field polymorphisms exist; all identified polymorphisms are capable of being cut by Cas9, but some with lower efficiency.
+Frequency of these variants in the field are low.
+
+=== Linking drive to effector
+Studying potential targets for antibodies
+
+===  TPP
+* Source DNA: all orthologous from target species
+* No breakdown due to mutation or recombination
+* Small size as possible
+* Fewest components
+* No off-target effects
+* No resistant target
+* No non-target drive effects
+* Drive inheritance in both sexes
+* 100% full introduction into target wild populations
+* Spread only into target mosquito species
+* < 1 year to full introduction
+* Male competitiveness equal or more than wt
+* Female fecundity --?
+* Others...
+
+=== Discussion
+[quanda]
+Mark Benedict: Do you plan to take cardinal gene to the field?::
+The gene would be a good tool to use in the field.
+Tony: the cardinal gene doesn't seem to be a problem for the field.
+
+*Ethan Bier considers the drive system to be an ideal drive; meets the TPP*
+
+== Ethan Bier: Gene Drive and Effector Genes Future Plans
+=== First generation drives
+
+Isaacs et al. 2012: If coupled with a mechanism for gene spread...malaria resistance genes could be used as a malaria control tool.
+
+=== New effectors
+* Nanobodies against Pfs25: V~H~ portion of heavy chain
+* Anti-Pfs25 single chain
+* Anti-Pvs25 monoclonal antibodies
+* etc.
+
+=== Promoters being used
+* Peritrophic Matrix 1
+* Carboxypeptidase
+* Vitellogenin (inducible)
+
+=== Transgenesis
+* Single effectors
+* Multi-effectors
+
+=== Conducting parasite challenge assays
+They have the assays working well.
+
+=== Second generation drives
+* Swap constructs to recode existing drives: increased efficiency of original drive cassette.
+* Allelic drive: host parasite refractory allele of FREP1
+* Essential gene targets: Prosalpha2, Rab5, Rab11.
+Initial testing in split drives, can convert to full drives.
+
+=== Drives in other organisms
+* Mouse tyrosinase locus: if copying happens, progeny mice are white, carry RFP and the _chinchilla_ marker
+* Bacteria (Valderrama et al. 2019)
+
+=== Drive neutralization systems
+* ERACRs: eliminate it
+* e-CHACRs: keep it parked
+
+=== Discussion
+=== CRISPR-Cas9 target sites in natural populations of _An. gambiae_ and _Ae. egypti_
+More than 90% of protein encoding genes have at least one Cas-9 target site.
+Therefore, if you can tolerate a resistance frequency of < 1%, as in a population modification strategy, then you're OK.
+However, in a population suppression strategy, the resistance frequency tolerance will be much less because resistance is under strong selection.
+
+=== Candidate field trial sites
+==== Comoros
+* genetically isolated from mainland
+* genetically simpler than mainland
+
+==== São Tomé and Príncipe
+* little dispersal off islands
+* less polymorphic than mainland
+* by contrast, Bioko island is more like mainland
+* geographic distance from mainland generally more genetically isolated from mainland
+* were in São Tomé and Príncipe in November 2019, returning in March 2020
+* collected samples for genome sequencing (under permit)
+* species composition: _An. coluzzii_, _An. gambiae_ (small populations), hybrids, and introgressed individuals
+* Questions
+** Are populations on each island structured into discrete sub-populations?
+** Is _An. gambiae_ ss. present in São Tomé and Príncipe?
+** Nature of individuals from which the ITS2 diagnostic fails, but DIS is + for _An. coluzzii_?
+** What is the origin of the _kdr_ (associated with insecticide resistance) mutation in São Tomé and Príncipe
+* Future plans (March-April 2020)
+** first MRR study
+** second attempt to establish lab colony
+** survey mosquitoes at interior sites
+** extensive community engagement activities
+* under Open Philanthropy funding, will establish a relationship with São Tomé and Príncipe and UC Irvine
+
+=== Discussion
+[quanda]
+Do any roads connect the East and West directly in Príncipe?::
+Not good roads--could be evident in the genetic structure.
+What is the prevalence on malaria?::
+Not high now, but increasing.
+A malaria program is in place, but mosquitoes were abundant.
+Malaria control program is primarily drug-based, which would be synergistic with the population modification strategy.
+Were adults collected infected?::
+Will be testing for that.
+Sustainability::
+External funding-dependent projects suffer from lack of continuity because funding stops.
+This strategy can maintain control without constant funding.
+
+== Malaria in São Tomé and Príncipe (STP), João Pinto
+=== History
+* early records of intermittent fevers in 1520
+* sugarcane expansion and slave trade 1600 leads to increased malaria
+* coffee/cocoa expansion leads to more immigration and increased malaria
+* 1980-82 malaria eradication, reduced malaria to 0.6%
+* subsequent increase due to lack of maintenance
+* 2005-2010 malaria elimination program: LLIN, IPT, ACT, IRS
+
+=== 1997-2004 research
+* mosquito abundance (malaria?) decreases with altitude
+* biting behavior: early biting (São Tomé); exophagic; exophilic.
+It is possible that dogs are a more prominent host than humans (due to their outdoor preference).
+* Insecticide resistance: susceptible to malathion, deltamethrin, permethrin, DDT.
+Perhaps some resistance to permethrin
+* no _kdr_ mutation (although present now)
+* population genetics: lower genetic diversity in island populations, except Bioko island (corroborates Greg Lanzaro's results)
+* current work focusing on
+** assessing suitability for transgenic releases
+** pre-and post intervention comparisons
+** _
+
+=== Training
+* short courses
+* Masters in Medical Parasitology (2 year program)
+* PhD Biomedical Sciences/International Health (4 year program)
+
+=== Discussion
+[quanda]
+How collect resting mosquitoes?::
+Aspirators
+How do the migration numbers fit with the genetic data?::
+_
+Origin of _kdr_?::
+Greg: It evolved independently on Bioko. But Pinto thinks it is probably an introduction on other islands.
+
+== Community Engagement, Ana Kormos
+=== Strategy
+* Definition: open collaboration and communication with identified community and stakeholder groups
+* Goal: acceptance, by building support and understanding
+* Relationship-based model: developed for health care delivery.
+Engage community early and involve them in decisionmaking.
+Build on strength of existing infrastructure
+
+=== Achievements
+* Finalized partnership agreements for baseline data collection and community engagement with Ministries of Health in Comoros and STP
+* Training field team
+** communication skills for engagement
+** UCIMI communication plan
+** engagement strategy and timeline
+** Project Q&A's
+* Funding from Open Philanthropy for engagement work
+* Relationship development
+** ASPF: NGO for training
+** CNE (National Center for Endemic Diseases)
+** PNLP (Malaria Control Program)
+** Hired Project Consultant: Dr. Adionilde Pires dos Santos Aguiar: liason with Health Minister, general project advisor, capacity building for stakeholders, training for local personnel.
+** UNDP: Luis Abello, STP Program Officer
+*** Financial management
+*** Recruitment and hiring of local personnel
+*** Equipment and supply procurement
+* Prepared training materials
+* University lectures (including on modeling!); nine more planned for 2020
+* PNLP training in collection methods
+
+=== Plans for 2020
+* Finalize engagement and communication plan with MoH in STP
+* Finalize contracts with collaborative partners
+** UNDP
+** CNE/PNLP
+** University of STP
+** University of Lisbon
+* Recruit personnel
+* More capacity building
+** Stakeholder seminars (to understand this technology)
+** University lectures
+** STP team training
+** English language training
+** Scientific training
+* Assessments and planning
+** Community assessment
+** Develop budget/plan for facility renovations
+** Field station development
+** Funding opportunities
+* Relationship Development with Regulatory Collaborators
+** NEPAD
+** Kenya NBA
+* Comoros
+** Identify stakeholders and assess collaborative capacity
+** Expand understanding of community initiative
+** _
+
+=== Discussion
+[quanda]
+How will you assess effectiveness of training?::
+They are now in the process of relationship-building, then will rely on local expertise to advise on how best to conduct communication efforts and training.
+Regulatory engagement::
+They have engaged with NEPAD and the Kenyan NBA, but not with the Cartagena Focal Point.
+
+== Gene Drive Modeling Progress, John Marshall
+=== Integrated modeling framework (MGDrivE)
+* Inheritance pattern module
+* Mosquito life cycle module
+* Landscape module
+* Epidemiology module
+
+=== Application of this framework to STP
+=== Discussion
+== Non-compliance consequences, Brinda Dass
+=== Discussion
+[quanda]
+People can survive without crops[!]::
+Brinda: still a hard sell with health issue
+
+
+== Considerations for working across borders, Hector Quemada

@@ -1,0 +1,3 @@
+pandoc -s myfile.html -o myfile.docx
+
+pandoc  --reference-doc  referencedoc.docx -o outputfile.docx inputfile.html

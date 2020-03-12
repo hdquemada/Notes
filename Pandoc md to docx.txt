@@ -1,0 +1,6 @@
+pandoc -f markdown -o outputfile.docx inputfile.md
+
+If using a reference document
+
+pandoc  --reference-doc  ~/Science\ Team\ FNIH\ Dropbox/Hector\ Quemada/custom.docx -o outputfile.docx inputfile.md
+

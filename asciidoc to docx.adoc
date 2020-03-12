@@ -1,0 +1,6 @@
+asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
+			
+			
+Using my own reference doc for styling:
+
+asciidoctor --backend docbook --out-file - inputfile.adoc|pandoc --reference-doc custom-reference.docx --from docbook --to docx -o outputfile.docx

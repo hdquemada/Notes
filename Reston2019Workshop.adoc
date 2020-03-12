@@ -1,0 +1,408 @@
+= Regulatory Questions Workshop
+
+[.text-center]
+December 4-5, 2019
+Reston, Virginia
+
+:sectnums:
+== Dave O'Brochta's presentation
+*_Q&A_*
+[quanda]
+Can you reverse the drive effect?::
+Yes, this is a theoretical possibility. You would have to use another drive.
+
+Is Annex III of the Cartagena Protocol enough to cover gene drives?::
+This is being dealt with right now under the Cartagena Protocol, the Risk Assessment AHTEG.
+
+Heterozygote inferiority/genetic underdominance: explain further.::
+Dave explained the mechanism more in depth.
+
+Cartagena Protocol is based on the fact that there is the presence of foreign genes. Are there some gene drives that don't fall in the category of LMOs?:: All are transgenic.
+
+== Stephanie's presentation
+*_Q&A_*
+[quanda]
+What is the process of certifying an enhanced ACL2 facility?::
+This is currently being worked on by FNIH.
+
+Resistance testing in the lab isn't likely to be detected in the field. How can this be a go-no go decision?::
+This is also being 
+
+Epidemiological testing: why a requirement?::
+This is required by VCAG and the experience of those in the working group who have worked with bed nets.
+
+Recent WHO guidelines on vector control tools--how are these related?::
+We are in collaboration with WHO to update the 2014 WHO guidelines. The vector control tools guidelines are more
+general.
+
+Need for multiple regulatory agencies: This will be at a huge cost. Need to consolidate all application processes into one pathway that satisfies all the agencies. Ghana is working on this.::
+This will be the ideal goal. Currently, the biosafety committee sometimes has not been coordinated with other
+agencies. We need to keep in mind the objectives of the different agencies. NEPAD is working on a regional approach: West Africa Integrated Vector Management platform. The process will be one where the decision will be applicable to the countries in the region.
+
+The importance of modeling--how was this discussed in the working group?::
+The main consideration in the working was to predict where these gene drives will go, and also effect on disease
+transmission. There is a report to be released soon on what information is needed for modeling. A modeling consortium
+funded by BMGF (on malaria) could also be a resource for improved models.
+
+== Willy's presentation
+*_Q&A_*
+[quanda]
+The CBD and Cartagena are focused on environmental issues. Health officials should be brought in to the CBD discussion.::
+As it is now, the process approval approves the GMO; the product approval is in the area of the health agencies.
+
+== Olalekan's presentation
+NEPAD transition to AUDA: AUDA funding now mostly comes from the member states.
+
+AU High Level Panel on Emerging Technologies: recommended gene drives for malaria control as one of the three
+technologies to endorse.
+
+Noted the AU Decision document on malaria: commits to sustain invest in the development and regulation of gene drives.
+Requested the Commission(?), NEPAD and WHO to invest in this technology.
+
+He described the overview of the NEPAD strategy for stages of gene drive regulation.
+
+Africa Integrated Vector Management platform: will be comprised of regional platforms. Right now it seems like WAIVM is
+the only one in the works. Will be working on a single AU position on Policy and Legal frameworks.
+
+*_Q&A_*
+[quanda]
+How did the number of generations get decided on for the different stages of gene drive development?::
+This was from Gates. The modeling indicates that the self-limiting lasts around 10 generations. Target Malaria has
+strains that lasts more than 10 generations.
+
+How does WAIVM dovetail with the regional biosafety regulation?::
+NEPAD is working ECOWAS to get the two efforts in line. The regional biosafety regulation is in Parliament this week,
+but WAIVM is still in development.
+
+== Bob Pfannensteil's presentation (biocontrol), and
+== Lisa Knolhoff's presentation (genetically engineered)
+*_Q&A_*
+[quanda]
+Pathway for approval could be long (e.g. 11 years). What is the bottleneck?::
+The amount of data required. For example, testing for impact on plants.
+
+Does the US view gene drive mosquitoes as biocontrol agents or genetically engineered?::
+The regulatory jurisdiction depends on the intended use. With APHIS, they are outside of biocontrol jurisdiction because
+the law doesn't apply to mosquitoes, but APHIS does issue permits for interstate movement. If mosquitoes for population
+suppression it is EPA. For disease elimination, it is FDA.
+
+Risk assessment data obtained on data in containment: similar between biological control and gene drives. Do we have emergency requirements for classical biological control?::
+At the point where we are able to observe adverse effects, mitigation would not be possible. That is why the process
+takes so long.
+
+Will benefit considerations come into play in the US?::
+For endangered species (Endangered Species Act), this won't be a consideration. Under NEPA, there might be an opportunity.
+
+Involvement by neighboring countries: how do they enter into the process?::
+There are differences between countries, but relations are generally good.
+
+What about new genotypes of approved species?::
+If from new location, it might require new approval.
+
+Is there information available on the biocontrol data required?::
+Bob will provide links.
+
+== Nathan Rose's presentation
+*_Q&A_*
+[quanda]
+How do you integrate with other vector control tools?::
+In Brazil, bed nets and insecticide treatments are not as much used as habitat elimination. They work with local vector
+control authorities.
+
+Why start with Aedes?::
+Was addressing a public health need for which there is no vaccine. Aedes also easier to work with.
+
+What is the cost--sustainable in Africa?::
+Costing still under discussion.
+
+How do you show that control is due to the technology and not other control measures?::
+The control neighborhoods have the same control measures, so control is relative to the other measures.
+
+Any plans for deployment in Africa?::
+Right now, there are none.
+
+Explain the sexing technology.::
+Introduced gene kills females. In production, it is turned off.
+
+Transferability to other environments::
+Will be assessed.
+
+Community engagement::
+They have a public engagement program.
+
+Genetic background::
+Genetic background comes from Mexico. There isn't a mating disadvantage.
+
+Allergenicity assessment::
+Used FAO guidelines.
+
+== Implications of product design and potential uses
+Thesis: The intended outcome of a drive technology has no impact on regulatory considerations, evaluation, data needs,
+etc.
+
+=== Individual group discussion
+Move from containment to field will be a significant hurdle.
+
+Risk assessment will involve natural populations. Experience with classical biocontrol. Specificity is already
+addressed. What are the indirect, food web related effects? Replacement or suppression have different implications.
+
+Case-by-case!
+
+=== Plenary session
+Gene drive issues similar to biocontrol; advantage in that we are talking about species we know. With classical
+biocontrol, we need to learn more about the biology of a species. There are models for how countries work together with
+biocontrol.
+
+Case-by-case mechanism of the drive.
+
+Does it matter if it's suppression or replacement?
+In the US, it means what agency--EPA or FDA.
+What about both?
+There doesn't seem to be a good reason to have both claims.
+You might have data that shows suppression and epidemiological effect, but you might only want to get approval for a
+certain claim.
+Are we regulating product or process?
+Why are not regulating other strategies in the same way (e.g. Wolbachia, bed nets)?
+Public acceptance might vary.
+Persistence in the environment will differ.
+For contained use, there will probably not be an impact on regulatory issues, but for release there could be, depending
+upon the case.
+Biosafety and efficacy considerations might be in conflict (e.g. biosafety concerns versus health benefit).
+In India, Wolbachia is being considered; the questions seem to be similar to those for gene drive.
+Experience with plants, and little with GM insects.
+Many questions about gene drive really are related to GM insects.
+Perhaps we should move first to questions about non-driving GM insects, then move to gene drive.
+
+Why is the effectiveness of a technology in suppressing a population now regarded as a problem, when it is considered a
+success for other control approaches?
+
+== Implications of not being able to cryopreserve of "biobank" gene drive mosquitoes
+The inability to "freeze" lines is insignificant from a regulatory perspective.
+
+=== Individual group discussion
+From a risk assessment point of view, it would be a problem if you do safety testing on a genotype that would be different from the released product.
+In ecotox studies, the lines that are used are stable lab-adapted lines, so that they don't change over time.
+
+=== Plenary session
+
+If a lab needs to continuously refresh a colony, what studies need to be repeated?
+
+Oxitec experience:
+They didn't try to introgress into local background.
+
+Do you want to apply the per-event model as it is for plants, or is a different regulatory model appropriate?
+
+Why do you introgress into local genotypes?
+In order to develop data on the performance of the transgene in the backgrounds that it is likely to encounter.
+EPA is currently debating whether the genetic background is to be important in the data submitted.
+From a risk assessment perspective, do you need to know the information from different backgrounds?
+
+Regulatory experience with plants has been that there has been no problem with not having a bank of the original
+material.
+Information can be kept and tissue can be archived.
+
+== Implications of single locus versus multilocus ('split') drive architecture
+=== Plenary session
+For a risk assessment, it is a more difficult case.
+
+Intermediate solutions seem to be motivated by being more socially acceptable or with mitigation strategies built in, but it would be more difficult for a regulator.
+On the other hand, public acceptance does influence decisions on the release of a technology.
+While it is good that researchers are working on safety mechanisms, and it is good to address the concerns of the
+public, it will be a difficult case to assess.
+Multicomponent drives, if billed as a safety measure could be misleading the public.
+Risk tolerance is greater when the public health problem is severe.
+
+== Implications of spread and persistence
+What would be a dream first gene drive release: what would it be?
+=== For individual group discussion
+Proof of concept in an organism that is easier to confine.
+An organism that is a health problem that there have been high investments to date; something that is worth taking the risk.
+For example, bird malaria in Hawaii.
+
+=== Plenary session
+An organism that causes an important problem.
+
+A case where the benefits are high.
+Malaria is a good case.
+
+Would people need to see that there is a mitigation option?
+Yes, from the point of view of Africa, there would need to be a demonstration that the process could be stopped.
+
+An animal example, on an uninhabited island.
+Have the proof of concept in a non-gene drive version.
+
+An island is not isolated enough.
+
+Need to demonstrate not only that it works, but that it works safely.
+Failure of the technology is not as bad a result as having some harm occur as a result of a trial.
+
+Do countries have the ability to consider benefits?
+In Europe, it is focused on risk; but can introduce this consideration as a comparison to other harm.
+In Kenya, safety considerations first then socioeconomic considerations shall be taken into account.
+
+Are people aware of the genes that are being considered for population replacement?
+One product in development is one that changes the ability of the mosquito to vector _Plasmodium_.
+
+Resistance concerns.
+Target Malaria has constructs that minimize resistance.
+The current discussion on gene drive is particular to Cas9-based gene drive.
+
+Would monitoring for resistance be a requirement for releases.
+The expectation is that this will be done post release by developers.
+
+Horizontal gene transfer: why is it a concern?
+It remains a concern in Europe even though regulators have dismissed this issue as a concern for some time now.
+The mechanism for gene drive is more complicated than for general horizontal gene transfer.
+
+Is there a benefit to trying to understand naturally occurring gene drives?
+There is a Keystone Symposium that is planned to see what can be learned from those working with natural gene drives.
+Benefits: familiarity, validating mathematical models; studying how they act in nature could help us learn what factors
+could affect a drive.
+
+== Safety Criteria
+...no greater harm to human/animal health and no greater harm to the ecosystem than existing control.
+=== Individual group discussion
+Existing controls are a good comparator because it is necessary to compare against current practices.
+What is the realistic scenario?
+The same situation is the case with GM plants.
+The comparator should not be determined by the developer.
+
+=== Plenary session
+Comparative risk assessment has a history in crops, but is that paradigm useful for gene drives in mosquitoes?
+
+Up to now, one gene drive developer has been using the gene drive mosquito versus the non-gene drive mosquito in the
+local background.
+
+In the case of gene drives, we could be faced with the situation where we need to choose between applications with
+different harms.
+
+For the criterion of no greater harm to ecosystem than existing control: How are the harms of existing controls
+determined?
+
+Regulatory agencies are placed in a difficult situation if they are asked to rank technologies based on harms.
+
+How do we determine ecosystem health?
+
+If additional guidance is to be written by the CBD and Cartagena Protocol, countries with experience and countries that will be directly affected should lead the committee.
+Academic institutions and developers should participate more actively in next COP/MOP.
+
+The issues with gene drives are no different than have been encountered by risk assessors before.
+There would be a need to increase the pool of expertise to include ecologists in risk assessments, and also to improve
+models, which will be more relied on.
+
+== Willy's presentation
+Because gene drives are LMOs under the Cartagena Protocol, biosafety regulators will continue to play a lead role.
+
+Introduced draft application requirements for contained use and environmental release.
+=== Individual group discussion
+Is a confined field trial a workable concept for a low threshold gene drive?
+=== Plenary discussion
+Forms should address legislative requirements.
+
+General comments on format of the form.
+
+Different opinions on whether a specific form should be established for gene drives.
+
+Risk assessments for contained use should include the assumption of escape.
+
+SOPs can determine what the appropriate measures are to achieve the required containment.
+Appropriate levels of containment can be defined.
+
+Brazil has a set of guidelines for GM insects that should be considered.
+
+Contained use detection protocol requirements: is this a standard in some countries, and would one ask this in all
+cases?
+Kenya does require it, in case there is an escape or allegation of escape.
+
+In case of import or export: what are we talking about, the construct or the organisms?
+
+Willy summary: these documents are a combination of different GMO forms from different African countries.
+It appears that the current forms cover the necessary information for working with gene drive organisms.
+
+The language of the forms should take into consideration the possibility of work being done in country rather than
+assuming it is imported.
+
+For the environmental release form, there doesn't seem to be anything related to risks.
+
+Who would register a gene drive product in Ghana?
+If a GMO, in Ghana it would be the biosafety authority.
+In Kenya, biosafety authority would approve the GMO and the product would be registered by the public health authority.
+
+WAIVM regional level approvals would follow the process described in the NEPAD presentation yesterday.
+
+Should we specify tools for monitoring?
+
+== Initial field testing
+Two claims: 1. Impact on the vector, 2. Impact on the disease
+
+=== Group discussion
+In the EU the Environmental Release Directive would apply.
+
+In Kenya, the applicant would have to describe the intended use, to justify the experiment.
+The NBA would be in charge of the initial field testing.
+In Kenya, the law considers field trials to be under containment.
+
+The question of claims assumes a US-centered regulatory system.
+
+=== Plenary session
+If the claim were that the GMO would persist long enough to have an epidemiological impact, then the trial would have to last long enough to see the claimed effect.
+
+Would there be any questions relating to the design of the trial?
+Currently, a product taken to WHO would need to have data from randomized controlled trials.
+But this would not be a requirement for the initial field trial.
+
+It is important to determine what the trial is designed to show.
+For example, stability of the drive and efficacy.
+
+Technical considerations for the trial:
+Time of year, sampling protocol, monitoring requirements.
+
+Limits of detection and sampling methodology are important to establish.
+Time of sample storage?
+At Ifakara, the standard practice is 5 years from the project end. (Did I hear this correctly?)
+
+What about overlapping interventions?
+EPA wouldn't approve such a scenario.
+
+Would regulatory agencies allow the trial to go on for a long period of time?
+
+In biocontrol, the idea of small to large field trials is not relevant.
+Monitoring requirements need to be tailored to what is reasonable.
+
+What are regulators interested in seeing?
+Rates of resistance: much discussion on why this would be something of interest to regulators, and general discussion of resistance in general.
+
+Do we assume that we have all the safety data that we need for release?
+Data in containment would have to be collected first.
+Modeling would also be important.
+What are the data that one would have to collect in containment?
+Does it work as it is supposed to work?
+What about harmful effects on non-targets, harm to human health.
+If it's introduced, it is introduced.
+The risk assessment has to be case-specific, in a formal risk assessment.
+Monitoring will also be important for reasons other than efficacy.
+If a risk is identified in the ERA, post-release monitoring might be of little use.
+Monitoring could also be useful to collect data to validate models.
+This means that there will be high uncertainty in decisions on the early products.
+Field trials are for the purpose of collecting safety data relevant for a general release. For gene drive, initial data will come from contained use and modeling. 
+
+Would there be a concern about any change in vector competence?
+Developers do consider this a concern.
+This parameter covers many physiological characteristics of a mosquito, and addresses the concern about not having the opposite of the intended effect.
+
+The past experience with the assessment of the Oxitec mosquitoes could be relevant to the risk assessment of gene drives.
+Oxitec is monitoring for efficacy.
+Also there is post-release monitoring for the presence of the transgene in the environment; currently 6 months.
+Monitoring for niche replacement.
+This was based on discussions with the regulatory agency (Brazil).
+It is not a comprehensive monitoring, but defined sites.
+
+The Oxitec case could be a good case study.
+
+Need assess pros and cons of the current approach for assessing unintended effects.
+Be careful not to follow the EU approach, but could look at certain phenotypic characteristics.
+
+Is there a possibility of having a first field release that has really good confinement, for example islands?
+Initially it seems a good approach, but not likely to find a suitable island (either physical or genetic).
+
+Risk tolerance will depend upon the value of a technology relative to the risk. That is country specific.

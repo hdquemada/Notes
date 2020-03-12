@@ -1,0 +1,88 @@
+2019-08-08 Day 2 of workshop.
+
+Dave O'Brochta: Synthetic gene drives--homing drives; special case of copy/paste
+	-Natural gene drive system Homing Endonuclease Gene in yeast.
+	-Synthetic gene drive uses CRISPR-Cas9
+	-The CRISPR-Cas9 system mimics natural HEG
+	-Effector genes can be added to the gene drive system that can move with the drive.
+
+	-Early experiment:  gene drive failed due to evolution of resistance (Hammond et al., 2017)
+	-Later experiment with a construct that prevented evolution of resistance showed gene drive to 100% (Kyrou et al.,
+	2018)
+
+Brinda Dass: Risk Assessment--Hazard Identification
+	-Hazard is the agent of concern
+	-Harm is the adverse effect caused by the hazard
+	-Exposure is ...
+	-Risk is the likelihood of harm
+	-Risk analysis
+		>Risk assessment
+		>Risk management
+		>Risk communication
+	-Risk Assessment Process
+		-Establish context and scope
+		-Identify & characterize hazards
+			>What hazards in the GMO are attributable to the modification?
+			>Comparative hazards
+			>Case by case basis related to
+				*Genotype
+				*Phenotype
+				*Receiving Environment
+				*Intended Use
+				*Any/all relevant history of use of same/similar GMO
+			>Causal Pathways: How can adverse outcomes/events happen from the hazard.
+		-Assess exposure
+		-Characterize risk
+		
+Karen Hokanson:  Likelihood and exposure assessment
+
+Karen Hokanson:  Hazard/consequence assessment and Risk Characterization
+	-Uncertainty: Cartagena Protocol Annex III deals with it by requesting more information and imposing risk
+	management and/or monitoring
+
+Ivan Rwomushana: Risk assessment for biocontrol organisms
+	-ISPM3 are guidelines for handling biological control agents, including risk assessment	
+
+Scott Shore:  Case Study 1
+	-What laws and what ministries would provide the legal framework for conventional SIT program?
+		>Mozambique:  Ministry of Health, Ministry of Environment, Ministry of Energy (because of radiation)
+		>Uganda: Ministry of Health, Ministry of Science and Technology, National Biosafety Committee(?)
+		>South Africa: Ministry of Agriculture
+		>Madagascar: Ministry of Environment, Ministry of Science, Ministry of Health
+		>Angola: Ministry of Environment
+	-The laws identifying these ministries would determine the scope of the risk assessment.
+
+Scott Shore:  Case Study 2
+	-Transgenic SIT, non-gene drive
+	-Laws in country:  at least the National Biosafety body	
+
+2019-08-09 Day 3 of workshop
+
+Emilie Pothin: Using models for malaria interventions and decision-making
+	-Overview of models; what they can do and cannot do
+
+Dave O'Brochta: How gene drive developers are using models
+	-We use models for making decisions in real life every day
+	-Showed examples of models to show how spread of drive depending upon different rates of evolution of resistance
+
+Dave O'Brochta: Post workshop assessment 
+
+Case Studies
+	-Population suppression with gene drive.
+
+Oral comments:
+Zambia:
+Thanks for efforts to build capacity for member states--responding to directives of member states
+Would they recommend? Urge individual countries for in-country training
+
+Comoros:
+It would be better to have similar workshops in other African countries.
+
+Angola:
+Appreciated the opportunity to attend
+
+Rufus (African Union Biosafety Forum)
+Thanks to ABNE for building capacity of Africans
+
+
+

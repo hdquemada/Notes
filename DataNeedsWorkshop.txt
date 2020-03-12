@@ -1,0 +1,219 @@
+---
+title: Data Needs Workshop Notes
+
+date: May  6-7  2019
+
+...
+
+## Introduction
+
+- [check into representative from Senegal here at the meeting]
+
+- In this meeting, we will be addressing Phase 1 activities of the WHO development pathway.  What
+  data are required (technical and regulatory) to justify movement beyond Phase 1.
+
+## Efficacy parameters:  what to measure? (efficacy predictors for suppression vs. replacement).
+
+- construct-specific parameters
+
+- construct-induced phenotypes on the individual level
+
+- life history and other parameters of the strain
+
+- effector resistance
+
+- second site modifiers
+
+- maternal nuclease deposition
+
+- other
+
+- effects on the parasite
+
+## How to measure?
+
+- influence of genetic background
+
+	- mosquito:  how equivalent must the candidate be to wild type at the field site?  What level of
+	  introgression is enough?
+	
+	- parasite: how should we take into account circulating strains at the field site?
+
+- impact of dynamic conditions:  temperature, density, release ratio, etc.
+
+- how long to measure?
+
+## Breakout group 1:  Translating to experimental laboratory/insectary protocols-design of efficacy
+studies.
+
+### Replacement:
+
+- Efficacy of the effector against Plasmodium falciparum
+	
+	- sporozoite blocking:  high intensity infection; low intensity infection (reflects field)
+		
+		- zero sporozoites in salivary glands under low intensity infection
+		
+		- replicated tests
+		
+		- test in more than one lab (ring tests). Mechanisms for exchange of test materials and
+		  standardized protocols needed.
+		
+		- controls: parental strain
+		
+		- infect homozygous driving strain
+
+Then...
+
+- Fitness: 	
+	
+	- 50% cage test: does it persist or increase? 
+		
+		- driving strain vs. non-driving allele strain
+		
+		- time?
+		
+		- cage size?
+	
+	- fitness parameters as described in the literature (life table measurements).
+
+
+### Suppression:
+
+- Homing rate:  
+	
+	- single generation cross (heterzygote transgenic male X homozygous wt female).
+	
+	- measure biased inheritance in F1
+	
+	- measure viable genotypes in F1
+
+- Test performance in small cage compared with modeling, based on parameters measured on the specific
+  strain
+
+### Genetic source of the material:  what genotype do you transform?
+
+Recommend that efficacy testing should be replicated in genotype of local release. 
+
+### Data needs from the field
+
+- Mosquito population structure and size
+	
+	- Anton Cornel: malaria control programs have fixed population surveillance sites, which can be useful datan
+	  for monitoring population fluctuations.
+	
+	- Fredros and Jonathan:  their programs don't do that
+
+- Potential dispersal (active, passive)
+
+- Interactions with other malaria control methods, including insecticide-based methods
+
+- Insecticide resistance
+	
+	- ensure that the GM mosquitoes are not more resistant than wild populations
+	
+	- Test susceptibility of both wild and GEM to create a list of insecticides that ca be ued oin
+	  the even of an unwanted outcome of a GEM release even premature escape.
+
+- Potential for ecosystem interactions - local competitor and predator species, pollinators, and
+  other valued species
+
+### Safety parameters--what to measure
+
+- Vector competence:  CSIRO is developing a risk assessment for this issue.
+
+- Direct effects: toxicity and allergenicity--of new proteins in salivary glands.
+
+- Spread to other organisms:  
+	
+	- species in the complex
+	
+	- horizontal gene transfer
+
+- Adverse effects on other species
+	
+	- what is the comparator? pesticide? 
+	
+	- species to test?
+	
+	- ecological studies are not trivial
+	
+	- impact on pollinators
+	
+- Insecticide susceptibility
+
+- Genetic and/or phenotypic stability
+
+- Behavioral and other effects impacting safety
+	
+	- swarming?
+		
+	- olfaction?
+	
+	- expanding geographic range?
+	
+	- others?
+
+### Design of safety studies
+
+##### Nonsilly questions
+
+Allergenicity/toxicity
+
+- novel proteins present in saliva? if not, then no need to go further
+
+- protein profile in saliva? should it be done?
+
+- database studies for allergenicity/toxicity for expressed proteins.
+
+- acute toxicity test
+
+- whole mosquito feeding:  the test is not strictly a toxicity test, but is seen in some countries
+  as an indicator of toxicity.
+
+Vector competence: Will mosquito become a better vector for the same pathogen, or become a vector
+for a new pathogen?
+
+- do infection assays for a set of example pathogens.
+
+- discussion on whether to test pathogens of community concern. Criteria for picking pathogen.
+  Credible explanations for why you pick certain pathogens to test are needed.
+	
+	- Does the pathogen (virus) occur in mosquitoes?
+	
+	- Not been known to be found in Anopheles, but we tested a couple to see.
+	
+	- chikungunya,dengue, zika, yellow fever, o'nyon yong, rift valley fever
+	
+	- filariasis(?)-could be modeled. Could test specifc characteristics that are relevant to
+	  increased ability to transmit.
+
+Insecticide resistance/susceptibility
+
+- protocol established (WHO)
+
+- strain should be no more resistant than the population where it will be introduced
+
+##### Silly questions
+
+Feeding behavior change: what if transgene jumps into a anthropophilic species from a zoophilic
+species (arabiensis for example)?
+
+- measure probing and biting rate in the lab
+
+What are the harms of controlling only temporarily--causing rebound? 
+
+- this is a problem for other control methods as well
+
+##### Other points discussed
+
+Genotypes in which to do the tests:  how many local strains should be done? This is not a trivial
+undertaking.  Is G3 so different from local populations that we need to test in all these
+backgrounds?  Possible approach:  get approval in one strain (e.g. G3, and do adaptation work
+later).
+
+Engagement with regulators and community necessary to determine relevant questions that might not be
+scientifically obvious.
+
+We should not underestimate the importance of these projects, and therefore not minimize the
+importance of the supporting work to successfully deploy it.

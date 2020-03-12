@@ -1,0 +1,1 @@
+pandoc -s gdchallenges.md -o gdchallenges.rtf

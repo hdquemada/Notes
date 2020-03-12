@@ -1,0 +1,63 @@
+Thu May  2 09:22:50 EDT 2019
+
+• It was agreed that a publication would be an ultimate goal.
+
+• Authorship was not finalized but it was agreed that it would be best if not from the project team members. Also not formalized was who would be responsible for primary authoring and also shepherding the authors. Also discussed was the need for authors to be sensitive to project data confidentiality issues as appropriate.
+
+• We will discuss in detail as we get into the writing part of the exercise but we do not foresee issues as such related to confidentiality at this time given that the paper will be positioned as a follow-on to the NASEM recommendations, the Reston Problem Formulation workshop, NEPAD-led African regional consultations, the independent probabilistic risk assessments by CSIRO (publicly available via Target Malaria’s website) and as an ongoing scoping exercise to inform gene drive projects to the types of concerns that might arise and more specific to Target Malaria to get recommendations for gaps and any s
+
+The fault trees would be a bridge connecting the CSIRO risk assessments to requirements for a complete dossier for the first gene drive product.
+
+• The overall aim of the publication is to provide evidence that the project team is approaching gene drive mosquito development by exploring the entire possible space in terms of scope to attempt to uncover all possible hazards in a rigorous and scientific manner.
+
+Brinda (?) will contact group moderators for conflict of interest and also willingness to help with
+the writing.
+
+She will write up an outline as a start
+
+Possible journals:
+
+(https://www.inderscience.com/jhome.php?jcode=ijram)
+(https://link.springer.com/journal/11166)
+(https://onlinelibrary.wiley.com/journal/15396924)
+
+From Geoff:  list of studies extracted from the notes of the workshop.
+
+·      Genomic studies/targeted bioinformatics to assess:
+
+o   likelihood of gene flow within and outside the complex
+
+o   Horizontal gene transfer via prokaryote, viral, or transposon mediated transfer
+
+·      Comprehensive description of the biology of the An. gambiae complex in order to understand its environmental interactions  e.g. ecological niche,  reproductive biology and hybridization outside the An.gambiae complex,  density dependence in larval habitat, adult insect communities,  This is expected to be largely satisfied by the ongoing work within the OECD on a regulatory harmonisation document on the biology of An.gambiae and outcomes from the Ghana ecological observatory.
+
+·      Predator-prey and other ecological interactions-integrating outputs from Ghana field work
+
+·      Refine elements of vectorial capacity which can be measured empirically and those which can be modelled, and those with the most uncertainty
+
+·      Scoping possibilities for vector population data capture from existing vector control  operations that is not available  in the scientific literature.
+
+·      Population demography and distribution of the An gambiae complex at relevant sites using information from African partner field studies.
+
+·      Systematic literature reviews (e.g. PRISMA, Cochrane reviews) or expert elicitation via CSIRO  risk assessment activities.
+
+o   Impact of mosquito immune system parameters on vector competence for Plasmodium falciparum
+
+o   Co-immunity in mosquitoes in response to Plasmodium- protection against other pathogens (animal and human)
+
+o   Elements contributing to mechanical vectoring of disease
+
+o   Animal pathogens transmitted by Anopheles to understand potential impacts on animal health
+
+o   Reviews on blood borne pathogen modes of transmission relevant to target geographies- e.g. HIV, Ebola transmission by mosquitoes; other arboviruses
+
+o   Secondary vector biology, e.g. An funestus habitat overlap with An gambiae as the most likely vector to occupy a vacant niche
+
+o   Update on Horizontal gene transfer literature in addition to existing genomics work
+
+o   Identification and habitat analysis/overlap of valued species in target receiving environments
+
+o   Review water quality parameters to establish measurable endpoints if needed for risk management;
+Impact of existing interventions on water quality
+
+[[CommonPoints]]

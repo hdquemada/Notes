@@ -1,0 +1,8 @@
+pandoc -s inputfile.md -o outputfile.tex
+
+Then compile to pdf
+[[Compiling tex with xelatex]]
+
+Or compile md to pdf all at once:
+
+[[Pandoc md to pdf]]
