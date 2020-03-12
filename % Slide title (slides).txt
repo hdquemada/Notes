@@ -1,0 +1,28 @@
+% Slide title
+% Hector Quemada
+% December 24, 2018
+
+---
+<!-- page_number: true -->
+# First Slide
+1. Item 1
+2. Item 2
+---
+# Second Slide
+_italicized text-
+
+**Bold Text**
+
+~~Strikeout~~
+
+## Subheading
+* list 1
+* list 2
+	* sublist
+	* sublist
+* list 3
+
+---
+# Third Slide
+The command to generate slides is  pandoc -t beamer filename.md -o filename.pdf
+
