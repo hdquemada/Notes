@@ -1,1 +1,5 @@
 sed -i '' 's/STRINGTOCHANGE/STRINGTOREPLACE/' filename
+# or
+sed 's/STRINGTOCHANGE/STRINGTOREPLACE/' inputfilename > outputfilename
+# for the above command, if you leave out the outputfilename it will print to the screen but not change
+# the contents of inputfilename
