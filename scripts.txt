@@ -1,0 +1,10 @@
+/* sort a file */
+sort -t, -nk3 inputfile
+/*
+where
+    -t, - defines your delimiter as ,.
+
+    -n - gives you numerical sort. If your user field is text only then you don't need it.
+
+    -k3 - defines the field (key), in this example the third.
+*/
