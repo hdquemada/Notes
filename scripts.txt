@@ -6,5 +6,5 @@ where
 
     -n - gives you numerical sort. If your user field is text only then you don't need it.
 
-    -k3 - defines the field (key), in this example the third.
+    -k3 - defines the field (key), in this example the third.gt
 */
