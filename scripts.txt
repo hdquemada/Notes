@@ -6,5 +6,7 @@ where
 
     -n - gives you numerical sort. If your user field is text only then you don't need it.
 
-    -k3 - defines the field (key), in this example the third.gt
+    -k3 - defines the field (key), in this example the third.
 */
+/* The above sort lists all uppercase first then lowercase after uppercase. The example below sorts by letter, uppercase first.*/
+sort -f --ignore-case -k1 AccAwk.txt
