@@ -1,4 +1,8 @@
 sed -i '' 's/STRINGTOCHANGE/STRINGTOREPLACE/' filename
+# the '' after the -i is needed in Mac version of sed.
+# From the man page: -i extension Edit files in-place, saving backups with the specified extension. If a zero-length extension is given, no backup will be saved.
+# So you need to send a zero length extension , by typing ''
+
 # or
 sed 's/STRINGTOCHANGE/STRINGTOREPLACE/' inputfilename > outputfilename
 # for the above command, if you leave out the outputfilename it will print to the screen but not change
