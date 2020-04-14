@@ -1,9 +1,14 @@
-sed -i '' 's/STRINGTOCHANGE/STRINGTOREPLACE/' filename
+sed -i '' 's/STRINGTOCHANGE/STRINGTOREPLACE/' filename   #After -i is two single quotes
 # the '' after the -i is needed in Mac version of sed.
 # From the man page: -i extension Edit files in-place, saving backups with the specified extension. If a zero-length extension is given, no backup will be saved.
-# So you need to send a zero length extension , by typing ''
+# So you need to send a zero length extension , by typing ' '. Otherwise you can type -i.bak
 
 # or
 sed 's/STRINGTOCHANGE/STRINGTOREPLACE/' inputfilename > outputfilename
 # for the above command, if you leave out the outputfilename it will print to the screen but not change
 # the contents of inputfilename
+
+# to add a line to any file in Mac version of sed
+sed -i  ''  'xi\ #where x is the number of the line you want to insert. It will be inserted as the xth line. #After -i is two single quotes
+Line to be inserted.\ #the backslash is important as a newline character.
+' inputfilename. # the ' ends the sed statement. If you want to output to a different file, delete the -i and ''  #two single quotes
