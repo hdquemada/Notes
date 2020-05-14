@@ -1,0 +1,3 @@
+This is the path to the LibreOffice hdqaddresses database on the 2011 MacBook Pro.
+Used for mail merge of documents.
+/Users/Hector/Library/Application Support/LibreOffice/4/user/database
