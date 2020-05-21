@@ -1,0 +1,1 @@
+For groff ms, \*[..] , where .. is some symbol indicating special character, is placed after the letter that has the diacritical mark, but with umlaut, \*[:] comes before the letter.
