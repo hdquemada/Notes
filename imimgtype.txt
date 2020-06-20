@@ -1,0 +1,2 @@
+-> magick identify rose.jpg
+rose.jpg JPEG 70x46 70x46+0+0 8-bit sRGB 2.36KB 0.000u 0:00.000
