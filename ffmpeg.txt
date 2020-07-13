@@ -1,0 +1,3 @@
+To convert from one format to another while preserving quality
+
+ffmpeg -i input.mov -qscale 0 output.mp4
