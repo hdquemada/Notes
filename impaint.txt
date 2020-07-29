@@ -1,0 +1,1 @@
+convert -paint radius(arount 10-20 works best)  inputfile.jpg outputfile.jpg
