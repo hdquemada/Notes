@@ -1,5 +1,0 @@
-fop -xml name.xml -xsl name2fo.xsl -pdf name.pdf
-
-Examples in directory
-
-/usr/local/Cellar/fop/2.3/libexec/fop/examples/fo/
