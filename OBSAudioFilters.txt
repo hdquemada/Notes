@@ -1,0 +1,62 @@
+Slick EQ
+    Live
+    German
+    EQ Sat enabled
+    High pass filter 50 Hz
+    Low
+        Bell filter
+        85 Hz
+        Gin 7.5 dB (more for higher pitched voice)
+    Mid
+        400 Hz
+        4.5 dB
+    High
+        5 kHz
+        9 dB
+        shelf
+    Outstage Deep
+    Calibrate 9 dB
+    Outgain 6 dB
+    Auto On
+
+Nova (Plosiveness and Sibilance)
+    Eco
+    I
+        Bell
+        Q 0.50
+        100 Hz
+        Threshold -12 dB
+        Ratio 10:1
+        Attack 20 ms
+        Release 200 ms
+    IV
+        Bell
+        Q 1.5
+        10 kHz (5-12)
+        Threshold -25
+        Ratio 2:1
+        Attack 10 ms
+        Release 150 ms
+
+Kotelnikov (Compression)
+    Eco
+    Live frequency relax 6 dB
+                        100 Hz
+    Threshold -25 dB
+    Peak crest RMS
+    Soft knee 9 dB
+    Ratio 2.5:1
+    Attack 8 ms
+    Release 250 ms
+    Outgain 3 dB
+
+OBS Compressor (Using this instead of Kotelnikov)
+    Ratio 4:1
+    Threshold -5 dB
+    Attack 102 ms
+    Release 95 ms
+    Output gain 2.00 dB
+
+OBS Limiter
+    Threshold -3.00 dB
+    Release 195 ms
