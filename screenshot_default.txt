@@ -1,0 +1,1 @@
+defaults write com.apple.screencapture location /Users/Hector/OneDrive or whatever path you want to change the folder to. Spaces are important (before location parameter).
