@@ -1,1 +1,2 @@
+move to /usr/local/bin directory
 ./app-cleaner.sh /Applications/{application.app}
