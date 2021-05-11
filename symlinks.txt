@@ -1,0 +1,2 @@
+This creates a symbolic link if a file already exists (-f option):
+ln -s -f /usr/local/bin/python3.8 /usr/local/bin/python
