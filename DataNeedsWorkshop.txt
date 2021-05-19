@@ -1,9 +1,24 @@
 ---
 title: Data Needs Workshop Notes
 
-date: May  6-7  2019
+date: May 19 2021
 
+indent: false
+
+fontsize: 11pt
+
+header-includes:
+  \usepackage{fontspec}
+  \usepackage{microtype}
+  \usepackage{authblk}
+    \author{Hector Quemada}
+    \affil{Western Michigan University}
+
+mainfont: Georgia
+sansfont: Verdana
 ...
+
+# Title
 
 ## Introduction
 

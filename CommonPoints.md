@@ -1,3 +1,4 @@
+
 ## Common Points
 
 #### Human Health
@@ -9,7 +10,6 @@
 * Events happening in the salivary gland and proboscis could be key to addressing these two concerns.
 * Spatial and temporal heterogeneity as they affect the spread of the drive will be and important consideration.
 * *Risk for these endpoints depended upon the lack of suppression (because they would not be concerns if populations were suppressed)*
-
 #### Animal Health
 * Same as animal health
 * Need to check if pathogens transmitted by An. g. are different to determine if they trigger any different considerations from Human Health
@@ -28,4 +28,4 @@
 	* database query
 	* fish feeding
 
-[[evidencemappingwriteup]]
+[[evidencemappingwriteup]] evidencemappingwriteup
