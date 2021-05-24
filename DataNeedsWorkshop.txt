@@ -18,8 +18,6 @@ mainfont: Georgia
 sansfont: Verdana
 ...
 
-# Title
-
 ## Introduction
 
 - [check into representative from Senegal here at the meeting]
