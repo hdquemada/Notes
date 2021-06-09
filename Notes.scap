@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.2" ID="DF326674-AB6F-47CE-9476-41C08234894E">
-    <Notes>
-        <Note ID="0" FontSize="12.0" Position="465.0,225.0" Width="130.0" Shadow="Yes">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Style="Square"></Border>
-            </Appearance>
-            <String>RGB: 155, 61, 159</String>
-        </Note>
-        <Note ID="1" FontSize="12.0" Position="516.0,272.0" Width="101.0" Shadow="Yes">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Style="Square"></Border>
-            </Appearance>
-            <String>Hex #9B3D9F</String>
-        </Note>
-        <Note ID="2" FontSize="12.0" Position="579.0,355.0" Width="121.0" Shadow="Yes">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Style="Square"></Border>
-            </Appearance>
-            <String>Original #52adc8</String>
-        </Note>
-    </Notes>
+    <Notes></Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-2</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="B877923B-E47C-4D7B-93C2-4756A502D518" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
