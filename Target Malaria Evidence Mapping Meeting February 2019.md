@@ -1,6 +1,8 @@
 ## Day 1 02/09/19
+---
 #### Burkina Faso activities
 * Imported sterile male, and are conducting studies in the laboratory
+---
 #### Mali Activities
 * Baseline ecological studies
 * Laboratory studies (ACL2 containment)
@@ -13,6 +15,7 @@
 	*    Legislators
 	*    Religious leaders
 	*    Research institutions
+---
 #### Uganda Activities
 * Building containment facilities (almost finished)
 * Engagement
