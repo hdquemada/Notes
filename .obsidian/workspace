@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "youtube-dl downloading.md",
+            "file": "sshconfigfile.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f791d269a4a0466a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,13 +76,36 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "youtube-dl downloading.md",
+                "file": "sshconfigfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "571e681483b7605c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cecd018af309c9ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sshconfigfile.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -88,12 +119,14 @@
   },
   "active": "c6867a90effe3df3",
   "lastOpenFiles": [
+    "sshconfigfile.md",
+    "README.md",
+    "www.apple.com.md",
     "youtube-dl downloading.md",
+    "Target Malaria Evidence Mapping Meeting February 2019.md",
     "Changes anticipated under Uganda’s Genetic Engineering Regulatory Act.md",
     "CommonPoints.md",
-    "Target Malaria Evidence Mapping Meeting February 2019.md",
     "ImageAndButtonLinks.md",
-    "GoogleMeetingCode.md",
-    "www.apple.com.md"
+    "GoogleMeetingCode.md"
   ]
 }

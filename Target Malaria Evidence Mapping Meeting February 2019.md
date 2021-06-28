@@ -9,6 +9,7 @@
 	*   Mosquito rearing
 	*   Monitoring population outside laboratory
 	*   Insecticide resistance (transgenic and wild type)
+---
 * Engagement
 	*    Government authorities
 	*    Civil society
@@ -21,7 +22,7 @@
 * Engagement
 	* Meeting with stakeholders
 	* Stakeholders phased with status of project
-
+---
 ## Day  02/10/19
 ### Group Synthesis session
 #### Group 3
