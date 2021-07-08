@@ -1,4 +1,4 @@
-# Command to see all formats:
+# YouTube-dl Command to see all formats:
 
 youtube-dl -F [or --list-formats] (URL)
 
