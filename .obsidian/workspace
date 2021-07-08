@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sshconfigfile.md",
+            "file": "CommonPoints.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "684026bfa3da53ba",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sshconfigfile.md",
+                "file": "CommonPoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sshconfigfile.md",
+                "file": "CommonPoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,14 +119,15 @@
   },
   "active": "c6867a90effe3df3",
   "lastOpenFiles": [
+    "CommonPoints.md",
+    "Compiling tex with xelatex.md",
+    "Install Vim plugins with pathogen.md",
     "sshconfigfile.md",
     "README.md",
     "www.apple.com.md",
     "youtube-dl downloading.md",
     "Target Malaria Evidence Mapping Meeting February 2019.md",
     "Changes anticipated under Uganda’s Genetic Engineering Regulatory Act.md",
-    "CommonPoints.md",
-    "ImageAndButtonLinks.md",
-    "GoogleMeetingCode.md"
+    "ImageAndButtonLinks.md"
   ]
 }
